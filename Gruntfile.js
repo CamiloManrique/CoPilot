@@ -24,7 +24,7 @@ module.exports = function (grunt) {
           "dist/static/css/AdminLTE.min.css": "src/adminlte-build/AdminLTE.less",
 
           // Skin
-          "dist/css/skin-blue.min.css": "src/adminlte-build/skin-blue.less",
+          "dist/static/css/skin-blue.min.css": "src/adminlte-build/skin-blue.less",
           "static/css/skin-blue.min.css": "src/adminlte-build/skin-blue.less"
         }
       }
